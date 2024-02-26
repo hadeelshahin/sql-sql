@@ -13,4 +13,4 @@
 ![Screenshot (80)](https://github.com/hadeelshahin/sql-sql/assets/106568841/de8e0dee-8261-4eb8-a60e-1f296059899b)
 ![Screenshot (79)](https://github.com/hadeelshahin/sql-sql/assets/106568841/ebcdbaaa-83ce-4f16-97f6-8a3bcce6360b)
 ![Screenshot (78)](https://github.com/hadeelshahin/sql-sql/assets/106568841/c10c10f0-d7d5-4ef6-9e0b-b72a7e3fd3c5)
-![Screenshot (77)](https://github.com/hadeelshahin/sql-sql/assets/106568841/b6bc9578-bcbb-47b8-bde1-36af1d59e102)
+
